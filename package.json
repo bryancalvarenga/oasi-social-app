@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "next": "^16.0.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "name": "oasi-social-app",
+  "description": "O Oasi é uma rede social projetada para oferecer um espaço digital mais leve, humano e saudável. Diferente das plataformas tradicionais, a Oasi foca em bem-estar, intencionalidade, silêncio digital e relações mais autênticas, reduzindo ruído, métricas tóxicas e estímulos excessivos.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "Bryan Alvarenga",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
