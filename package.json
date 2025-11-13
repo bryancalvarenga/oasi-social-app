@@ -9,12 +9,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "lint:check": "prettier --check",
+    "lint:fix": "prettier --write",
     "test": "jest",
     "test:watch": "jest --watchAll"
   },
   "author": "Bryan Alvarenga",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^30.2.0"
+    "jest": "^30.2.0",
+    "prettier": "^3.6.2"
   }
 }
